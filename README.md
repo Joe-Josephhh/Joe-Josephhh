@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey👋+I'm+JEEVAN+JIJO" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey👋+I'm+JOE+JOSEPH" />
 </p>
 
 <p align="center">
@@ -23,16 +23,16 @@
 <h3 align="left">🌐Connect With Me</h3>
 
 <p align="left">
-  <a href="mailto:jeevanjijo10@gmail.com">
+  <a href="mailto:joejr3387@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://linkedin.com/in/joe-joseph-67369628">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
-  <a href="https://github.com/Jeevan-Jijo">
+  <a href="https://github.com/Joe-Josephhh">
     <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
   </a>
-  <a href="https://instagram.com/nightmarenova_">
+  <a href="https://instagram.com/joe.josephhh">
     <img src="https://img.icons8.com/color/48/instagram-new.png"/>
   </a>
 </p>
