@@ -1,85 +1,93 @@
 <!-- Banner -->
+
 <p align="center">
   <img src="banner.gif" height="350px" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hey👋+I'm+JOE+JOSEPH" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&duration=1&pause=999999&color=FFFFFF&center=true&vCenter=true&width=600&lines=JOE+JOSEPH" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=39FF14&size=25&center=true&vCenter=true&width=600&lines=Data+Science+Student;AI+Enthusiast;UI%2FUX+Designer;Let's+Build+Something+Amazing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=39FF14&size=25&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Enthusiast;Web+Developer;AI+Enthusiast" />
 </p>
 
-##  About Me
+## About Me
 
 <img src="coding.gif" width="200" align="right"/>
 
--  Pursuing Master's in Computer Science Data Science 
--  Passionate about Web Designing & AI
--  Currently learning Deep Learning
-  
+I am pursuing an Integrated Master's degree in Computer Science with a specialization in Data Science.
 
-<h3 align="left">Connect With Me</h3>
+My interests include Data Science, Machine Learning, Deep Learning, Artificial Intelligence, and Web Development. I enjoy building practical applications that combine machine learning models with web technologies.
+
+Currently focusing on:
+
+* Deep Learning and Neural Networks
+* Machine Learning
+* Data Science and Data Analytics
+* Web Application Development
+* Artificial Intelligence
+
+<br clear="right"/>
+
+## Connect With Me
 
 <p align="left">
   <a href="mailto:joejr3387@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail.png"/>
+    <img src="https://img.icons8.com/color/48/gmail.png" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/joe-joseph-673696268">
-    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Joe-Josephhh">
-    <img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
   </a>
   <a href="https://instagram.com/joe.josephhh">
-    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
+    <img src="https://img.icons8.com/color/48/instagram-new.png" alt="Instagram"/>
   </a>
 </p>
 
-
-
-## 🛠 Languages & Tools
+## Technical Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,r" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,r" />
   <br>
-  <img src="https://skillicons.dev/icons?i=js,html,css,django,mysql" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,django,html,css,js" />
   <br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,figma" />
   <img src="https://img.icons8.com/color/48/chatgpt.png" alt="ChatGPT" width="48" height="48"/>
-  <br>
 </p>
 
+## Projects
 
-##  Best Projects
+### Outfit Recommendation System
 
-<p align="center">
+A machine learning based application that provides outfit recommendations based on weather conditions. The project combines recommendation logic with a web-based interface to provide personalized clothing suggestions.
 
-<a href="https://github.com/Jeevan-Jijo/Gymkhana">
+<a href="https://github.com/Joe-Josephhh/Outfit_Recommendation_System">
+  View Project
 </a>
 
-<a href="https://github.com/Jeevan-Jijo/classroom-attendance-yolo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeevan-Jijo&repo=AttendX&theme=tokyonight" />
+### Calorie Tracker
+
+A Flask based web application for personal calorie and nutrition tracking. The application includes Indian food image classification, nutrition information, calorie intake tracking, exercise calorie calculation, user profiles, dashboards, and machine learning based functionality.
+
+<a href="https://github.com/Joe-Josephhh/CALORIE-TRACKER-">
+  View Project
 </a>
 
-</p>
+## Areas of Interest
+
+Data Science
+Machine Learning
+Deep Learning
+Artificial Intelligence
+Data Analytics
+Web Development
+UI/UX Design
 
 ---
-<p>
+
+<p align="center">
   <img src="footer.gif" width="100%"/>
 </p>
-<!--
-**Joe-Josephhh/Joe-Josephhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
