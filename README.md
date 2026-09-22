@@ -26,7 +26,7 @@
   <a href="mailto:joejr3387@gmail.com">
     <img src="https://img.icons8.com/color/48/gmail.png"/>
   </a>
-  <a href="https://linkedin.com/in/joe-joseph-67369628">
+  <a href="https://linkedin.com/in/joe-joseph-673696268">
     <img src="https://img.icons8.com/color/48/linkedin.png"/>
   </a>
   <a href="https://github.com/Joe-Josephhh">
