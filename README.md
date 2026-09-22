@@ -11,16 +11,16 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=39FF14&size=25&center=true&vCenter=true&width=600&lines=Data+Science+Student;AI+Enthusiast;UI%2FUX+Designer;Let's+Build+Something+Amazing" />
 </p>
 
-## 👨‍💻 About Me
+##  About Me
 
 <img src="coding.gif" width="200" align="right"/>
 
-- 🎓 Pursuing Master's in Computer Science Data Science 
-- 💻 Passionate about Web Designing & AI
-- 🚀 Currently learning Deep Learning
+-  Pursuing Master's in Computer Science Data Science 
+-  Passionate about Web Designing & AI
+-  Currently learning Deep Learning
   
 
-<h3 align="left">🌐Connect With Me</h3>
+<h3 align="left">Connect With Me</h3>
 
 <p align="left">
   <a href="mailto:joejr3387@gmail.com">
@@ -52,7 +52,7 @@
 </p>
 
 
-## ⭐ Best Projects
+##  Best Projects
 
 <p align="center">
 
